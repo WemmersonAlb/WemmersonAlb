@@ -3,7 +3,7 @@
 Atualmente estou estudando no IFPE o curso de Análise e Desenvolvimento de Sistemas.
 Não estou trabalhando, porém estou envolvido em um projeto da Residência onBoard no Porto Digital do Recife.
 Tenho interesse por desenvolvimento Front-end, levo Design como hobby, mas sempre estou disposto a aprender coisas novas.
-No momento estou começando a aprender Vue Js, em breve colocarei um pequeno projeto por aqui.
+No momento estou começando a aprender Java, em breve colocarei um pequeno projeto por aqui.
 Estou aberto a propostas de estágio e/ou empregos como Júnior.
 
 Ferramentas com que eu trabalho:
