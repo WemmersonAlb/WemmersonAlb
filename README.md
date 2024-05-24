@@ -1,4 +1,4 @@
-<h1 align="center">Wemmerson Albuquerque - Fullstack Developer 😎</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=9be0ff&text=Wemmerson%20Albuquerque&textBg=false&fontColor=222&fontSize=50&section=header&reversal=false&rotate=0&strokeWidth=0&desc=FullStack%20Developer%20😎&descAlignY=64&descSize=30&fontAlignY=39&descAlign=50">
 
 ## Sobre Mim
 
