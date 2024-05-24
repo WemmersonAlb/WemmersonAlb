@@ -1,26 +1,56 @@
-### Olá! Sou Wemmerson!👋
+<h1 align="center">Wemmerson Albuquerque - Fullstack Developer 😎</h1>
 
-Atualmente estou estudando no IFPE o curso de Análise e Desenvolvimento de Sistemas.
-Não estou trabalhando, porém estou envolvido em um projeto da Residência onBoard no Porto Digital do Recife.
-Tenho interesse por desenvolvimento Front-end, levo Design como hobby, mas sempre estou disposto a aprender coisas novas.
-No momento estou começando a aprender ReactJS, estou publicando alguns projetos demonstrando o que estou aprendendo, é só conferir!.
-Estou aberto a propostas de estágio e/ou empregos como Júnior.
+## Sobre Mim
 
-Ferramentas com que eu trabalho:
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
- 
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e me desafiar com novas ferramentas e projetos. Tenho uma excelente capacidade para realizar apresentações em público, o que me ajuda a comunicar ideias de forma clara e eficaz. Minhas boas relações interpessoais facilitam o trabalho em equipe, e minha facilidade em aprender novas tecnologias me permite me adaptar rapidamente a diferentes ambientes de desenvolvimento. Além disso, possuo uma forte habilidade em resolução de conflitos interpessoais, garantindo que os projetos avancem de maneira tranquila e produtiva.
 
 
-<div style="max-width:100%">
-<a href="https://github.com/WemmersonAlb">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemmersonAlb&layout=compact&langs_count=7&theme=dracula"/> 
+<div align="center">
+ <img heigth="180em" loading="laziest" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemmersonAlb&layout=compact&langs_count=7&theme=blue-green" /> 
+ <img heigth="180em" loading="laziest" src="https://github-readme-stats.vercel.app/api?username=WemmersonAlb&theme=blue-green"/><br>
+ <img height="180em" loading="laziest" src="https://github-readme-streak-stats.herokuapp.com/?user=WemmersonAlb&theme=blue-green" />
 </div>
 
-Você pode entrar em contato comigo:
+## Objetivos
+
+Tenho um grande interesse em desenvolvimento fullstack e estou sempre disposto a aprender novas tecnologias e metodologias. Atualmente, estou aprofundando meus conhecimentos em Vue 3 e Vuetify.
+
+## Tecnologias e Ferramentas
+
+- **Linguagens de Programação:** <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+- **Frontend:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF">
+- **Backend:** <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+- **Banco de Dados:** <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+- **Design:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+## Projetos
+
+- **Projetos com JavaScript:** Diversos projetos utilizando JavaScript:
+  - Calculadora de IPVA: [Repositório](https://github.com/WemmersonAlb/Calculadora-de-IPVA) - [Github Pages](https://wemmersonalb.github.io/Calculadora-de-IPVA/)
+  - Konane: [Repositório](https://github.com/WemmersonAlb/Konane) - [Github Pages](https://wemmersonalb.github.io/Konane/)
+  - Catch: [Repositório](https://github.com/WemmersonAlb/catch) - [Github Pages](https://wemmersonalb.github.io/catch/)
+  - Kanban: [Repositório](https://github.com/WemmersonAlb/Kanban) - [Github Pages](https://wemmersonalb.github.io/Kanban/)
+- **Projeto com VUE 3:** Projetos com VUE 3:
+  - Crie sua pizza: [Repositório](https://github.com/WemmersonAlb/Sistema_Comandas_Vue) - [Site Vercel](https://sistema-comandas-vue.vercel.app/)
+- **Pomodoro em C:** [Repositório](https://github.com/WemmersonAlb/PomodoroSystem)
+- **Pokedex com React:** [Respositório](https://github.com/WemmersonAlb/Pokedex-React) - [Github Pages](https://wemmersonalb.github.io/Pokedex-React/)
+
+## Experiências
+
+### Residência PortoDigital
+Durante a residência no PortoDigital, aprendi a utilizar o Figma para design de interfaces e desenvolvi habilidades práticas em HTML, CSS e JavaScript.
+
+### Projeto no Centro de Pesquisa IFPE - RessociaDigi
+Participei de um projeto no Centro de Pesquisa da minha faculdade, o IFPE,  onde adquiri conhecimentos em Java e Spring Boot, utilizando MySQL como banco de dados.
+
+
+
+
+## Contato
+
+Estou em busca de oportunidades de estágio ou posição como desenvolvedor júnior. Se você está procurando por um desenvolvedor dedicado e curioso, entre em contato!
+
 <div>
-<a href = "mailto:wemmerson.albuquerque@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/wemmerson-albuquerque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:wemmerson.albuquerque@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/wemmerson-albuquerque" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-
-
