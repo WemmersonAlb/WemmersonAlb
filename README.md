@@ -32,6 +32,7 @@ Tenho um grande interesse em desenvolvimento fullstack e estou sempre disposto a
   - Kanban: [Repositório](https://github.com/WemmersonAlb/Kanban) - [Github Pages](https://wemmersonalb.github.io/Kanban/)
 - **Projeto com VUE 3:** Projetos com VUE 3:
   - Crie sua pizza: [Repositório](https://github.com/WemmersonAlb/Sistema_Comandas_Vue) - [Site Vercel](https://sistema-comandas-vue.vercel.app/)
+  - The Check List: [Repositório](https://github.com/WemmersonAlb/TODO_VUE) - [Site Vercel](https://thechecklist.vercel.app/)
 - **Pomodoro em C:** [Repositório](https://github.com/WemmersonAlb/PomodoroSystem)
 - **Pokedex com React:** [Respositório](https://github.com/WemmersonAlb/Pokedex-React) - [Github Pages](https://wemmersonalb.github.io/Pokedex-React/)
 
