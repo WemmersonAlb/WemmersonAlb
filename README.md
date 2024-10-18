@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e m
 
 ## Objetivos
 
-Tenho um grande interesse em desenvolvimento fullstack e estou sempre disposto a aprender novas tecnologias e metodologias. Atualmente, estou aprofundando meus conhecimentos em Vue 3 e Vuetify.
+Tenho um grande interesse em desenvolvimento fullstack e estou sempre disposto a aprender novas tecnologias e metodologias. Atualmente estou desenvolvendo uma plataforma como aluno pesquisador do GPADS - IFPE, onde utilizo Spring Rest com Java, Front-end em html, css e javascript puros e MongoDb como banco de dados.
 
 ## Tecnologias e Ferramentas
 
