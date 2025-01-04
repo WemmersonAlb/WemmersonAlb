@@ -30,6 +30,8 @@ Tenho um grande interesse em desenvolvimento fullstack e estou sempre disposto a
   - Konane: [Repositório](https://github.com/WemmersonAlb/Konane) - [Github Pages](https://wemmersonalb.github.io/Konane/)
   - Catch: [Repositório](https://github.com/WemmersonAlb/catch) - [Github Pages](https://wemmersonalb.github.io/catch/)
   - Kanban: [Repositório](https://github.com/WemmersonAlb/Kanban) - [Github Pages](https://wemmersonalb.github.io/Kanban/)
+  - Calculadora de Eficiência Energética e Financeira para Geladeiras: [Repositório](https://github.com/WemmersonAlb/comparator) - [Github Pages](https://wemmersonalb.github.io/comparator/)
+  - Comparador de Preços de Produtos de Supermercado: [Repositório](https://github.com/WemmersonAlb/price-comparator) - [Github Pages](https://wemmersonalb.github.io/price-comparator/)
 - **Projeto com VUE 3:** Projetos com VUE 3:
   - Crie sua pizza: [Repositório](https://github.com/WemmersonAlb/Sistema_Comandas_Vue) - [Site Vercel](https://sistema-comandas-vue.vercel.app/)
   - The Check List: [Repositório](https://github.com/WemmersonAlb/TODO_VUE) - [Site Vercel](https://thechecklist.vercel.app/)
