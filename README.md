@@ -40,11 +40,16 @@ Tenho um grande interesse em desenvolvimento fullstack e estou sempre disposto a
 
 ## Experiências
 
+### Projeto no centro de Pesquisa IFPE - MoRHinGA
+Participo atualmente do Projeto MoRHinGA no Centro de Pesquisa de minha faculdade, o IFPE, onde desenvolvo uma aplicação de monitoramento de dados geolocalizados. Através da API Leaflet, conseguimos exibir em um mapa os pontos de coleta de dados de estações climáticas instaladas ao longo do estado de Pernambuco, ao clicar em cada pin no mapa, é exibido um dashboard com os dados da última leitura efetuada pela aquela estação climática, o usuário tendo acesso também ao histórico de leituras daquela estação. Utilizamos back-end Spring com Java produzindo uma api REST para nosso projeto, utilizamos Mongo DB Atlas como banco de dados e front-end com HTML, CSS e JavaScript vanilla.
+
+### Projeto no Centro de Pesquisa IFPE - RessociaDigi
+Participei também de outro projeto no Centro de Pesquisa da minha faculdade, onde adquiri conhecimentos em Java e Spring Boot como back-end, utilizando MySQL como banco de dados e thymeleaf com bootstrap no front-end. O projeto visava desenvolver uma plataforma de empregabilidade para egressos do sistema penal do estado de Pernambuco, onde empresas conveniadas lança vagas de emprego no sistema, e um funcionário público consegue atualizar o cadastro dos egressos e verificar vagas compatíveis com eles.
+
 ### Residência PortoDigital
 Durante a residência no PortoDigital, aprendi a utilizar o Figma para design de interfaces e desenvolvi habilidades práticas em HTML, CSS e JavaScript.
 
-### Projeto no Centro de Pesquisa IFPE - RessociaDigi
-Participei de um projeto no Centro de Pesquisa da minha faculdade, o IFPE,  onde adquiri conhecimentos em Java e Spring Boot, utilizando MySQL como banco de dados.
+
 
 
 
